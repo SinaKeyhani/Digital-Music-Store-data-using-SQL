@@ -1,0 +1,2 @@
+## Introduction
+Welcome to the Music Store project! Our platform offers an extensive collection of music, featuring a diverse selection of albums, tracks, and curated playlists. Customers can also create and customize their own playlists to enhance their listening experience. With a dedicated team of employees across various locations in Canada, we strive to provide excellent service to our global customer base, who regularly engage with our store to discover and purchase their favorite music.
